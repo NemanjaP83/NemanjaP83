@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Love to work with ReactJS :heart
 - 💬 Ask me about anything
 ## 📫 How to reach me: 
- [Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134/)](https://www.linkedin.com/in/ishagupta20/
+ [Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134/)](nemanja-panteli%C4%87-101271134/)
  [![Gmail Badge](https://img.shields.io/badge/-necaintruder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:necaintruder@gmail.com)](necaintruder@gmail.com)
 
 ![Nemanja's github stats](https://github-readme-stats.vercel.app/api?username=NemanjaP83&show_icons=true&theme=dark)
