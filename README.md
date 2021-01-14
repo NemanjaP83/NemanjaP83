@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m looking for internship or job
-- 🌱 I’m currently learning ReactJS & Redux for frontend & NodeJS, ExpressJS and MongoDB for backend.
+- 🌱 I’m currently learning ReactJS & Redux for frontend & NodeJS, ExpressJS and MongoDB for backend. Also learning Vue3 & NuxtJS.
 - 😄 Love to work with ReactJS :heart:
 - 💬 Ask me about anything
 ## 📫 How to reach me: 
